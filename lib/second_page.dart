@@ -16,6 +16,7 @@ class Second extends StatelessWidget
           ),
         ),centerTitle: true,
       ),
+      backgroundColor: Colors.pink,
     );
   }
 }
